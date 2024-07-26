@@ -26,5 +26,5 @@
 
 <p><img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ravi-Shankar-Mishra&show_icons=true&locale=en&layout=compact" alt="Ravi-Shankar-Mishra" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ravi-Shankar-Mishra&show_icons=true&locale=en" alt="Ravi-Shankar-Mishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ravi-Shankar-Mishra&show_icons=true&locale=en" alt="Ravi-Shankar-Mishra" /></p>
 
